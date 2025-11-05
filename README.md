@@ -35,7 +35,7 @@ Our advanced AI technology intelligently removes selected people and seamlessly 
 ![Before - With Person](before.jpg) | ![After - Person Removed](after.jpg)
 -->
 
-![Remove Person from Photo Demo](https://sora2watermarkremover.net/og-image-text.jpg)
+![Remove Person from Photo Demo](https://sora2watermarkremover.net/og-image-remove-person.jpg)
 
 ## 🚀 Quick Start
 
