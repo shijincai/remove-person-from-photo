@@ -35,7 +35,7 @@
 ![处理前 - 有人物](before.jpg) | ![处理后 - 人物已移除](after.jpg)
 -->
 
-![去除照片人物演示](https://sora2watermarkremover.net/og-image-text.jpg)
+![去除照片人物演示](https://sora2watermarkremover.net/og-image-remove-person.jpg)
 
 ## 🚀 快速开始
 
